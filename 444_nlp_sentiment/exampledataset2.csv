@@ -1,0 +1,21 @@
+id,text,sentiment,age,name,profession,gender
+1,I love this product!,Positive,25,Jack,Engineer,Male
+2,This movie was amazing.,Positive,32,Emily,Teacher,Female
+3,The service was terrible.,Negative,40,Michael,Salesperson,Male
+4,The food tasted delicious.,Positive,27,Sophia,Chef,Female
+5,I would not recommend this hotel.,Negative,35,Ethan,Hotel Manager,Male
+6,The customer support was very helpful.,Positive,29,Olivia,Customer Support,Female
+7,The quality of the product was disappointing.,Negative,45,Patrick,Quality Control,Male
+8,This book is a must-read.,Positive,33,Maria,Writer,Female
+9,I had a horrible experience with their service.,Negative,38,Liam,Customer Support,Male
+10,The performance was outstanding.,Positive,42,Isabella,Musician,Female
+11,The weather is perfect today.,Positive,31,Danny,Meteorologist,Male
+12,This product exceeded my expectations.,Positive,36,Mia,Product Manager,Female
+13,I had a great time at the concert.,Positive,28,Erik,Musician,Male
+14,The price is too high for this item.,Negative,39,Harper,Salesperson,Female
+15,The traffic was unbearable this morning.,Negative,47,Amelia,Commuter,Female
+16,I love the new design of the website.,Positive,30,Benjamin,Web Designer,Male
+17,The customer service was excellent.,Positive,34,Brenda,Customer Service,Female
+18,I was disappointed with the hotel room.,Negative,43,Alexander,Hotel Guest,Male
+19,The movie was a complete waste of time.,Negative,26,Briar,Moviegoer,Female
+20,The project deadline was unrealistic.,Negative,37,Adam,Project Manager,Male
